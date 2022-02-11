@@ -3,8 +3,12 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background: white;
     color:black;
-    width:300px;
+    width:500px;
     padding:20px;
     border-radius:25px;
     margin:auto;
+}
+.detaildiv {
+    position:relative;
+    left:50px;
 }
